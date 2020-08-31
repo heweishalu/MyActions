@@ -4,6 +4,11 @@
 name: 京东天天加速
 
 on:
+
+ push:
+         branches:
+            - master
+
   schedule:
     - cron: '33 */3 * * *'
 
