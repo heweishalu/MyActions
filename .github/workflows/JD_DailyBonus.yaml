@@ -24,4 +24,4 @@ jobs:
                   SYNCURL: ${{ secrets.SYNCURL }}
                   PUSH_KEY: ${{ secrets.PUSH_KEY }}
                   BARK_PUSH: ${{ secrets.BARK_PUSH }}
-                  JD_COOKIE: ${{ secrets.JD_COOKIE }}
+                  JD_COOKIE: ${{ secrets.JD_COOKIE }} 
